@@ -2,6 +2,17 @@
 
 This folder contains detailed **manual test cases** for various functionalities of applications used for QA practice. Each test case is written in **Markdown (.md)** or as an **Excel file** for easy reading and version control.
 
+## How to Use This Repository
+This folder is part of the larger [QA Practice: Demo Sauce Application](https://github.com/jchaudhariwork-spec/qa-practice) repository.
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/jchaudhariwork-spec/qa-practice.git
+   ```
+2. Go to the manual_tests folder to access test cases.
+
+3. Use files to execute tests, or track results.
+
 ## **Folder Structure**
 
 ### Amazon
